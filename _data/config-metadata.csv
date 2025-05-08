@@ -1,15 +1,17 @@
-field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
+﻿field,display_name,browse_link,external_link,dc_map,schema_map
+objectid,ObjectID,,,DCTERMS.identifier,identifier
+parentid,ArtworkID,,,DCTERMS.identifier,identifier
+title,Title,,,DCTERMS.title,name
 creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
-rightsstatement,,,,DCTERMS.rights,license
+height,Size Height,,,DCTERMS.extent,height
+width,Size Width,,,DCTERMS.extent,width
+provenance,Provenance,,,DCTERMS.description,
+medium,Medium,,,DCTERMS.format,artMedium
+citation,Bibliographic References,,,DCTERMS.relation,citation
+subject_person,Subject (Names),TRUE,,DCTERMS.subject,about
+subject_topic,Subject (Generic Terms),TRUE,,DCTERMS.subject,about
+source,Image Source,,,DCTERMS.source,source
+print_type,Print Type,,,DCTERMS.format,print_type
+display_template,display_template,,,,
+object_location,Filename,,,DCTERMS.identifier,filename
+format,format,,,,
