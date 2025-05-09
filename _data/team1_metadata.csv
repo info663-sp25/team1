@@ -1,56 +1,56 @@
-objectid,parentid,title,creator,height,width,provenance,medium,citation,subject_person,subject_topic,source,print_type,display_template,object_location,format
-BPA1001,,Portrait of a Venetian General,Paolo Veronese,199.5 cm,119 cm,"The 12th Duke of Hamilton, Hamilton Palace, Christie Sale, June 24, 1882, lot 411 as Giorgione;The 6th Earl of Rosebery, Mentmore, Christie Sale, May 5, 1939 lot 45 as Giorgione;Koetser;Madame K.L. Coal Charpentier Sale, Paris, Nov. 30, 1954 lot 34;Wildenstein;Frederick W. Field, Greenacres, Beverly Hills, Christie Sale, London, July 5, 1991 lot 4;ex. Earl of Rosebery, MENTMORE (Bucks.)",canvas paintings,,,portraits;military officers,,,compound_object,,compound_object
-BPA1002,,Poet Between Vice & Virtue,Paolo Veronese,,,Edith von Zur Muehlen PONTE A MORIANO (Lucca),canvas paintings,,,ethics (philosophy);allegory (artistic device),,,compound_object,,compound_object
-BPA1003,,Venus & Adonis,Paolo Veronese,,,Private coll.,canvas paintings,"Pallucchini, ACROPOLI, 1963 pp.293-303, rep r. in color",Venus;Adonis,love (emotion);couples,,,compound_object,,compound_object
-BPA1004,,The Astronomer,Paolo Veronese,138.4 cm,110.5 cm,Sir Stephen Courtauld UMTALI (S.Rhoclesia),canvas paintings,APOLLO IV no. 23. nov. 1926. opp. p. 185 & p. 187,,astronomers;portraits,,,compound_object,,compound_object
-BPA1005,,Shepherd & Nymph,Paris Bordone,,,Crespi Coll. MILAN,canvas paintings,"E. Martini, ARTE ILLUSTRATA, July - Dec. 1968 p. 26",,lovers;cupids,,,compound_object,,compound_object
-BPA1006,,Courtesean,Paris Bordone,45 cm,32.4 cm,"O.V Watney, Cornbury Park, Oxon
+objectid,parentid,title,creator,height,width,provenance,medium,citation,subject_person,subject_topic,source,print_type,display_template,object_location
+bpa1001,,Portrait of a Venetian General,Paolo Veronese,199.5 cm,119 cm,"The 12th Duke of Hamilton, Hamilton Palace, Christie Sale, June 24, 1882, lot 411 as Giorgione;The 6th Earl of Rosebery, Mentmore, Christie Sale, May 5, 1939 lot 45 as Giorgione;Koetser;Madame K.L. Coal Charpentier Sale, Paris, Nov. 30, 1954 lot 34;Wildenstein;Frederick W. Field, Greenacres, Beverly Hills, Christie Sale, London, July 5, 1991 lot 4;ex. Earl of Rosebery, MENTMORE (Bucks.)",canvas paintings,,,portraits;military officers,,,compound_object,
+bpa1002,,Poet Between Vice & Virtue,Paolo Veronese,,,Edith von Zur Muehlen PONTE A MORIANO (Lucca),canvas paintings,,,ethics (philosophy);allegory (artistic device),,,compound_object,
+bpa1003,,Venus & Adonis,Paolo Veronese,,,Private coll.,canvas paintings,"Pallucchini, ACROPOLI, 1963 pp.293-303, rep r. in color",Venus;Adonis,love (emotion);couples,,,compound_object,
+bpa1004,,The Astronomer,Paolo Veronese,138.4 cm,110.5 cm,Sir Stephen Courtauld UMTALI (S.Rhoclesia),canvas paintings,APOLLO IV no. 23. nov. 1926. opp. p. 185 & p. 187,,astronomers;portraits,,,compound_object,
+bpa1005,,Shepherd & Nymph,Paris Bordone,,,Crespi Coll. MILAN,canvas paintings,"E. Martini, ARTE ILLUSTRATA, July - Dec. 1968 p. 26",,lovers;cupids,,,compound_object,
+bpa1006,,Courtesean,Paris Bordone,45 cm,32.4 cm,"O.V Watney, Cornbury Park, Oxon
 Christie Sale June 23, 1967 lot 57
 J Paul Getty, Sutton Place, Guilford, Surrey
 J. Paul Getty Museum, Malibu, 1978 
-Christie Sale, New York: May 21 1992 lot 37",canvas paintings,,,portraits;single-sitter portraits;sex workers,,,compound_object,,compound_object
-BPA1007,,Portrait of fair haired woman holding elaborate dish,Paris Bordone,34.5 cm,28.5 cm,"24 July, 1945
+Christie Sale, New York: May 21 1992 lot 37",canvas paintings,,,portraits;single-sitter portraits;sex workers,,,compound_object,
+bpa1007,,Portrait of fair haired woman holding elaborate dish,Paris Bordone,34.5 cm,28.5 cm,"24 July, 1945
 Christie Sale, London
 Bought by Koesten fut 651
-Earl of Radnor Longford Castle",canvas paintings,"Woogen, III, p.140",,portraits;single-sitter portraits;Italian Renaissance-Baroque styles,,,compound_object,,compound_object
-BPA1008,,Rest in Flight,Paris Bordone,61 cm,92.5 cm,"Jonies Cozenove Sale, Christie's May 18, 1833 lot 105
+Earl of Radnor Longford Castle",canvas paintings,"Woogen, III, p.140",,portraits;single-sitter portraits;Italian Renaissance-Baroque styles,,,compound_object,
+bpa1008,,Rest in Flight,Paris Bordone,61 cm,92.5 cm,"Jonies Cozenove Sale, Christie's May 18, 1833 lot 105
 Spencer Churchill, Northwick Park 1965
 Christie's Sale, May 28 1965 lot 27 
-March 14, 1975 lot 110",canvas paintings,"G. Canova, p.13-14, 109","Jesus Christ;Mary, Blessed Virgin, Saint;Joseph (Son of Jacob)",Italian Renaissance-Baroque styles;putti (motifs);biblical;religious art,,,compound_object,,compound_object
-BPA1009,,Rest on Flight,Paris Bordone,48.7 cm,68.8 cm,"Count Adam Polocki, Cracow
-Count Antoine Steilern, London",canvas paintings,"Canova, p. 105 fig 109 as ca 1550","Jesus Christ;Mary, Blessed Virgin, Saint;Joseph (Son of Jacob)",Italian Renaissance-Baroque styles;biblical;religious art,,,compound_object,,compound_object
-BPA1010,,Holy Family + Infant St John,Paris Bordone,100 cm,137 cm,"Sir Phillip Stephens;Christie Sale, May 17 1810;lot 77;Lord Ranelgh, 1829;Stirling Coll., Keir;Stirling Sale Sotheby, July 3, 1963 lot 44;Christie Sale, Dec. 10, 1982 lot 60;Casa Venier, Venice",canvas paintings,"G. Canova, p. 81","Jesus Christ;Mary, Blessed Virgin, Saint;John, the Baptist, Saint",biblical;religious art,,,compound_object,,compound_object
-BPA1011,,Madonna with Infant John (The Madonna + Child + St. John),Jacopo Bassano,77 cm,88 cm,"(110164) Coll: Earl of Carlisle; Edenbridge (Kent), Archibald Werner; Sotheby Sale, March 27, 1968 lot 27;Exh: The New Gallery, 1894-5; Agnus's, June 1953 (n. 2); Venice 1957 n.52;(110165) Prov: Lord Carlisle, Castle Howard; Hon. Geoffrey W. A. Howard, 1944; Edenbridge (Kent), Archibald Werner; Sotheby Sale, March 27, 1968 lot 27;Exh: Venice 1957 n.52",canvas paintings,(110165) Bou' d'Arte. VIII. 1929 (2). pp. 407-413;Arsan. F8. 27. I. p. 167,"Mary, Blessed Virgin, Saint;Jesus Christ;John, the Baptist, Saint",biblical;Christianity;maestà;religious art,,,compound_object,,compound_object
-BPA1013,,[Untitled],Jacopo Bassano,,,"Canova, Milano (1954) already sold;p with Müncheau alteyniei;HOMELESS",canvas paintings,,"Mary, Blessed Virgin, Saint;Jesus Christ",biblical;Christianity;maestà;religious art,,,compound_object,,compound_object
-BPA1014,,Rest m Feight (variant of the Ambrosiana),Jacopo Bassano,120 cm,155 cm,"Acquired in Fenence c. 1871 by Sir John Leslie; Desmond Leslie, Castle Leslie, Co. Monaghan, Eire;Sotheby Sale, Dec. 12, 1973 lot 84",canvas paintings,,"Mary, Blessed Virgin, Saint;Joseph (Son of Jacob);Jesus Christ",biblical;Christianity;gospels;religious art,,,compound_object,,compound_object
-BPA1015,,Portrait of Old Woman,Jacopo Bassano,118 cm,98.5 cm,"Wotney Coll. Cornbury Park;Christie Sale, June 23, 1967 lot 37;July 11, 1975 lot 182;Sotheby Sale, New York, June 11, 1981 lot 122;Oliver Vernon; O. V. Wotney; CORNBURY PARK (Chorpbury, Oxon)",canvas paintings,,Old woman,portraits;women (female humans),,,compound_object,,compound_object
-PH109644,BPA1001,Portrait of a Venetian General [Photograph],,,,"Ph. sent by Wildenstein, Dec. 1957",,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109644_1_45942227.jpg,image/jpg
-PH109659,BPA1002,Poet Between Vice & Virtue [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109659_1_45942255.jpg,image/jpg
-PH109689,BPA1003,Venus & Adonis [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109689_1_45942299.jpg,image/jpg
-PH109707,BPA1004,The Astronomer [Photograph],A. C. Cooper,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109707_1_45942331.jpg,image/jpg
-PH109832,BPA1005,Shepherd & Nymph [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109832_1_45942538.jpg,image/jpg
-PH109833,BPA1006,Courtesean [Photograph],A. C. Cooper,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109833_1_45942540.jpg,image/jpg
-PH109842,BPA1007,Portrait of fair haired woman holding elaborate dish [Photograph],A. C. Cooper,,,"Koesten Fin, 1945",,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109842_1_45942556.jpg,image/jpg
-PH109880,BPA1008,Rest in Flight(Cooper) [Photograph],A. C. Cooper,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109880_1_45942626.jpg,image/jpg
-PH109881,BPA1009,Rest in Flight [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109881_1_45942656.jpg,image/jpg
-PH109897,BPA1010,Holy Family + Infant St John [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109897_1_45942662.jpg,image/jpg
-PH110164,BPA1011,Madonna with Infant John [Photograph],Thomas Agnew & Sons,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/110164_1_45936377.jpg,image/jpg
-PH110165,BPA1011,The Madonna + Child + St. John [Photograph],A. C. Cooper,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/110165_1_45936379.jpg,image/jpg
-PH110168,BPA1013,[Untitled] [Photograph],Mario Perotti,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/110168_1_45936387.jpg,image/jpg
-PH110186,BPA1014,Rest m Feight (variant of the Ambrosiana) [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/110186_1_45936413.jpg,image/jpg
-PH110226,BPA1015,Portrait of Old Woman [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/110226_1_45936475.jpg,image/jpg
-PH109644V,BPA1001,Portrait of a Venetian General [Photograph][Verso],,,,,,,,,,,image,/objects/109644_2_45942228.jpg,image/jpg
-PH109659V,BPA1002,Poet Between Vice & Virtue [Photograph][Verso],,,,,,,,,,,image,/objects/109659_2_45942256.jpg,image/jpg
-PH109689V,BPA1003,Venus & Adonis [Photograph][Verso],,,,,,,,,,,image,/objects/109689_2_45942300.jpg,image/jpg
-PH109707V,BPA1004,The Astronomer [Photograph][Verso],,,,,,,,,,,image,/objects/109707_2_45942332.jpg,image/jpg
-PH109832V,BPA1005,Shepherd & Nymph [Photograph][Verso],,,,,,,,,,,image,/objects/109832_2_45942539.jpg,image/jpg
-PH109833V,BPA1006,Courtesean [Photograph][Verso],,,,,,,,,,,image,/objects/109833_2_45942541.jpg,image/jpg
-PH109842V,BPA1007,Portrait of fair haired woman holding elaborate dish [Photograph][Verso],,,,,,,,,,,image,/objects/109842_2_45942557.jpg,image/jpg
-PH109880V,BPA1008,Rest in Flight(Cooper) [Photograph][Verso],,,,,,,,,,,image,/objects/109880_2_45942627.jpg,image/jpg
-PH109881V,BPA1009,Rest in Flight [Photograph][Verso],,,,,,,,,,,image,/objects/109881_2_45942657.jpg,image/jpg
-PH109897V,BPA1010,Holy Family + Infant St John [Photograph][Verso],,,,,,,,,,,image,/objects/109897_2_45942663.jpg,image/jpg
-PH110164V,BPA1011,Madonna with Infant John [Photograph][Verso],,,,,,,,,,,image,/objects/110164_2_45936378.jpg,image/jpg
-PH110165V,BPA1011,The Madonna + Child + St. John [Photograph][Verso],,,,,,,,,,,image,/objects/110165_2_45936380.jpg,image/jpg
-PH110168V,BPA1013,[Untitled] [Photograph][Verso],,,,,,,,,,,image,/objects/110168_2_45936388.jpg,image/jpg
-PH110186V,BPA1014,Rest m Feight (variant of the Ambrosiana) [Photograph][Verso],,,,,,,,,,,image,/objects/110186_2_45936414.jpg,image/jpg
-PH110226V,BPA1015,Portrait of Old Woman [Photograph][Verso],,,,,,,,,,,image,/objects/110226_2_45936476.jpg,image/jpg
+March 14, 1975 lot 110",canvas paintings,"G. Canova, p.13-14, 109","Jesus Christ;Mary, Blessed Virgin, Saint;Joseph (Son of Jacob)",Italian Renaissance-Baroque styles;putti (motifs);biblical;religious art,,,compound_object,
+bpa1009,,Rest on Flight,Paris Bordone,48.7 cm,68.8 cm,"Count Adam Polocki, Cracow
+Count Antoine Steilern, London",canvas paintings,"Canova, p. 105 fig 109 as ca 1550","Jesus Christ;Mary, Blessed Virgin, Saint;Joseph (Son of Jacob)",Italian Renaissance-Baroque styles;biblical;religious art,,,compound_object,
+bpa1010,,Holy Family + Infant St John,Paris Bordone,100 cm,137 cm,"Sir Phillip Stephens;Christie Sale, May 17 1810;lot 77;Lord Ranelgh, 1829;Stirling Coll., Keir;Stirling Sale Sotheby, July 3, 1963 lot 44;Christie Sale, Dec. 10, 1982 lot 60;Casa Venier, Venice",canvas paintings,"G. Canova, p. 81","Jesus Christ;Mary, Blessed Virgin, Saint;John, the Baptist, Saint",biblical;religious art,,,compound_object,
+bpa1011,,Madonna with Infant John (The Madonna + Child + St. John),Jacopo Bassano,77 cm,88 cm,"(110164) Coll: Earl of Carlisle; Edenbridge (Kent), Archibald Werner; Sotheby Sale, March 27, 1968 lot 27;Exh: The New Gallery, 1894-5; Agnus's, June 1953 (n. 2); Venice 1957 n.52;(110165) Prov: Lord Carlisle, Castle Howard; Hon. Geoffrey W. A. Howard, 1944; Edenbridge (Kent), Archibald Werner; Sotheby Sale, March 27, 1968 lot 27;Exh: Venice 1957 n.52",canvas paintings,(110165) Bou' d'Arte. VIII. 1929 (2). pp. 407-413;Arsan. F8. 27. I. p. 167,"Mary, Blessed Virgin, Saint;Jesus Christ;John, the Baptist, Saint",biblical;Christianity;maestà;religious art,,,compound_object,
+bpa1013,,[Untitled],Jacopo Bassano,,,"Canova, Milano (1954) already sold;p with Müncheau alteyniei;HOMELESS",canvas paintings,,"Mary, Blessed Virgin, Saint;Jesus Christ",biblical;Christianity;maestà;religious art,,,compound_object,
+bpa1014,,Rest m Feight (variant of the Ambrosiana),Jacopo Bassano,120 cm,155 cm,"Acquired in Fenence c. 1871 by Sir John Leslie; Desmond Leslie, Castle Leslie, Co. Monaghan, Eire;Sotheby Sale, Dec. 12, 1973 lot 84",canvas paintings,,"Mary, Blessed Virgin, Saint;Joseph (Son of Jacob);Jesus Christ",biblical;Christianity;gospels;religious art,,,compound_object,
+bpa1015,,Portrait of Old Woman,Jacopo Bassano,118 cm,98.5 cm,"Wotney Coll. Cornbury Park;Christie Sale, June 23, 1967 lot 37;July 11, 1975 lot 182;Sotheby Sale, New York, June 11, 1981 lot 122;Oliver Vernon; O. V. Wotney; CORNBURY PARK (Chorpbury, Oxon)",canvas paintings,,Old woman,portraits;women (female humans),,,compound_object,
+ph109644,bpa1001,Portrait of a Venetian General [Photograph],,,,"Ph. sent by Wildenstein, Dec. 1957",,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109644_1_45942227.jpg
+ph109659,bpa1002,Poet Between Vice & Virtue [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109659_1_45942255.jpg
+ph109689,bpa1003,Venus & Adonis [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109689_1_45942299.jpg
+ph109707,bpa1004,The Astronomer [Photograph],A. C. Cooper,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109707_1_45942331.jpg
+ph109832,bpa1005,Shepherd & Nymph [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109832_1_45942538.jpg
+ph109833,bpa1006,Courtesean [Photograph],A. C. Cooper,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109833_1_45942540.jpg
+ph109842,bpa1007,Portrait of fair haired woman holding elaborate dish [Photograph],A. C. Cooper,,,"Koesten Fin, 1945",,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109842_1_45942556.jpg
+ph109880,bpa1008,Rest in Flight(Cooper) [Photograph],A. C. Cooper,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109880_1_45942626.jpg
+ph109881,bpa1009,Rest in Flight [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109881_1_45942656.jpg
+ph109897,bpa1010,Holy Family + Infant St John [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/109897_1_45942662.jpg
+ph110164,bpa1011,Madonna with Infant John [Photograph],Thomas Agnew & Sons,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/110164_1_45936377.jpg
+ph110165,bpa1011,The Madonna + Child + St. John [Photograph],A. C. Cooper,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/110165_1_45936379.jpg
+ph110168,bpa1013,[Untitled] [Photograph],Mario Perotti,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/110168_1_45936387.jpg
+ph110186,bpa1014,Rest m Feight (variant of the Ambrosiana) [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/110186_1_45936413.jpg
+ph110226,bpa1015,Portrait of Old Woman [Photograph],,,,,,,,,Photo Archive of the Berenson Library at Harvard’s Villa I Tatti,black-and-white prints,image,/objects/110226_1_45936475.jpg
+ph109644v,bpa1001,Portrait of a Venetian General [Photograph][Verso],,,,,,,,,,,image,/objects/109644_2_45942228.jpg
+ph109659v,bpa1002,Poet Between Vice & Virtue [Photograph][Verso],,,,,,,,,,,image,/objects/109659_2_45942256.jpg
+ph109689v,bpa1003,Venus & Adonis [Photograph][Verso],,,,,,,,,,,image,/objects/109689_2_45942300.jpg
+ph109707v,bpa1004,The Astronomer [Photograph][Verso],,,,,,,,,,,image,/objects/109707_2_45942332.jpg
+ph109832v,bpa1005,Shepherd & Nymph [Photograph][Verso],,,,,,,,,,,image,/objects/109832_2_45942539.jpg
+ph109833v,bpa1006,Courtesean [Photograph][Verso],,,,,,,,,,,image,/objects/109833_2_45942541.jpg
+ph109842v,bpa1007,Portrait of fair haired woman holding elaborate dish [Photograph][Verso],,,,,,,,,,,image,/objects/109842_2_45942557.jpg
+ph109880v,bpa1008,Rest in Flight(Cooper) [Photograph][Verso],,,,,,,,,,,image,/objects/109880_2_45942627.jpg
+ph109881v,bpa1009,Rest in Flight [Photograph][Verso],,,,,,,,,,,image,/objects/109881_2_45942657.jpg
+ph109897v,bpa1010,Holy Family + Infant St John [Photograph][Verso],,,,,,,,,,,image,/objects/109897_2_45942663.jpg
+ph110164v,bpa1011,Madonna with Infant John [Photograph][Verso],,,,,,,,,,,image,/objects/110164_2_45936378.jpg
+ph110165v,bpa1011,The Madonna + Child + St. John [Photograph][Verso],,,,,,,,,,,image,/objects/110165_2_45936380.jpg
+ph110168v,bpa1013,[Untitled] [Photograph][Verso],,,,,,,,,,,image,/objects/110168_2_45936388.jpg
+ph110186v,bpa1014,Rest m Feight (variant of the Ambrosiana) [Photograph][Verso],,,,,,,,,,,image,/objects/110186_2_45936414.jpg
+ph110226v,bpa1015,Portrait of Old Woman [Photograph][Verso],,,,,,,,,,,image,/objects/110226_2_45936476.jpg
