@@ -1,6 +1,17 @@
-field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
-identifier,,,true,Identifier
+﻿field,display_name,btn,hidden,sort_name
+objectid,ObjectID,,TRUE,
+parentid,ArtworkID,,TRUE,
+title,Title,,,Title
+creator,Creator,,,Creator
+height,Size Height,,TRUE,
+width,Size Width,,TRUE,
+provenance,Provenance,,TRUE,
+medium,Medium,,TRUE,
+citation,Bibliographic References,,TRUE,
+subject_person,Subject (Person),TRUE,,Subject (Name)
+subject_topic,Subject (Generic Term),TRUE,,Subject (Generic Term)
+source,Image Source,,TRUE,
+print_type,Print Type,,TRUE,
+display_template,,,TRUE,
+object_location,Filename,,TRUE,
+format,,,TRUE,
