@@ -1,5 +1,16 @@
-field,display_name
+﻿field,display_name
+objectid,Object ID
 title,Title
-date,Date
-description,Description
-subject,Subjects
+creator,Creator
+height,Height
+width,Width
+provenance,Provenance
+medium,Medium
+citation,Bibliographic References
+subject_person,Subject (Names)
+subject_topic,Subject (Generic Terms)
+source,Image Source
+print_type,Print Type
+object_location,Filename
+height,Size (Height)
+width,Size (Width)
