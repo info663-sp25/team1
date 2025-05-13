@@ -80,4 +80,4 @@ The website is built using [CollectionBuilder-CSV](https://github.com/Collection
 
 /*Can continue adding here if neded
 
-{% include feature/card.html header="The Astronomer (verso) (Example)" text="Example of the verso of a photograph featuring stamps and inscriptions." objectid="ph109707v" width="25" centered=false%}{% endraw %}
+{% include feature/card.html header="The Astronomer (verso) (Example)" text="Example of the verso of a photograph featuring stamps and inscriptions." objectid="ph109707v" width="25" centered=false%}
