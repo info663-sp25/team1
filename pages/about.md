@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid=ph109842 %} 
 
-{% include feature/nav-menu.html sections="About the MAP Project;Process; Project Principles;Functional Requirements;About the Collection" %}
+{% include feature/nav-menu.html sections="About the MAP Project;Process;Project Principles;Functional Requirements;About the Collection" %}
 
 # About the MAP Project
 **Objective:** 
