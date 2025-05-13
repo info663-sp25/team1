@@ -9,5 +9,5 @@ citation,Bibliographic References,,,DCTERMS.relation,citation
 subject_person,Subject (Names),TRUE,,DCTERMS.subject,about
 subject_topic,Subject (Generic Terms),TRUE,,DCTERMS.subject,about
 source,Image Source,,,DCTERMS.source,source
-print_type,Print Type,,,DCTERMS.format,print_type
+print_type,Print Type,TRUE,,DCTERMS.format,print_type
 format,format,,,,
