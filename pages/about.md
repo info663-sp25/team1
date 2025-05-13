@@ -42,21 +42,21 @@ credits: true
 
 ## Functional Requirements
 Schema Requirements:
-| Element      | Search          | Browse  | View  | Sort  |
-| ------------- |:-------------:| -----:| -----:| -----:|
-| **Title** | X      |    X |    X |    X |
-| **Artwork ID** | X      |    - |    X |    - |
-| **Artist**     | X | X | X | X |
-| **Artwork Size** | -      |    - |    X |    - |
-| **Provenance** | X      |    - |    X |    - |
-| **Medium** | -      |    - |    X |    - |
-| **Bibliographic References** | -     |    - |    X |    - |
-| **Subject(s)** | X      |    X |    X |    - |
-| **i Tatti ID** | X      |    - |    X |    - |
-| **Photographer**      | X      |   X |   X |   X |
-| **Filename** | -      |    - |    - |    - |
-| **Image Source**      | -      |   - |   X |   - |
-| **Print Type**      | -      |   - |   X |   - |
+|            Element           | Search | Browse | View | Sort |
+|:----------------------------:|:------:|:------:|:----:|:----:|
+|                    **Title** |    X   |    X   |   X  |   X  |
+|               **Artwork ID** |    X   |    -   |   X  |   -  |
+|                   **Artist** |    X   |    X   |   X  |   X  |
+|             **Artwork Size** |    -   |    -   |   X  |   -  |
+|               **Provenance** |    X   |    -   |   X  |   -  |
+|                   **Medium** |    -   |    -   |   X  |   -  |
+| **Bibliographic References** |    -   |    -   |   X  |   -  |
+|                  **Subject** |    X   |    X   |   X  |   -  |
+|               **i Tatti ID** |    X   |    -   |   X  |   -  |
+|             **Photographer** |    X   |    X   |   X  |   X  |
+|                 **Filename** |    -   |    -   |   -  |   -  |
+|             **Image Source** |    -   |    -   |   X  |   -  |
+|               **Print Type** |    -   |    -   |   x  |   -  |
 
 
 > System Requirements:
@@ -77,7 +77,3 @@ This collection includes photographs from the Photo Archive of the Berenson Libr
 Artworks are represented by photographs which feature stamps and handwritten inscriptions.
 
 The website is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
-
-/*Can continue adding here if neded
-
-{% include feature/card.html header="The Astronomer (verso) (Example)" text="Example of the verso of a photograph featuring stamps and inscriptions." objectid="ph109707v" width="25" centered=false%}
