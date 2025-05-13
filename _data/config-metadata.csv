@@ -1,6 +1,6 @@
-﻿field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,name
-creator,Creator,,,DCTERMS.creator,creator
+field,display_name,browse_link,external_link,dc_map,schema_map
+title,Title,TRUE,,DCTERMS.title,name
+creator,Creator,TRUE,,DCTERMS.creator,creator
 height,Size Height,,,DCTERMS.extent,height
 width,Size Width,,,DCTERMS.extent,width
 provenance,Provenance,,,DCTERMS.description,
