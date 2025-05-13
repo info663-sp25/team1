@@ -18,14 +18,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: 'INFO663: Photo Archive of the Berenson Library at Harvard’s Villa I Tatti'
+title: 'Cataloging: Photo Archive of the Berenson Library at Harvard’s Villa I Tatti'
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 'Pratt Institute Spring 2025 - Metadata & Design - Team 1 Final Project'
+tagline: 'Pratt Institute Spring 2025 - INFO663: Metadata & Design - Team 1 Final Project'
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "'Pratt Institute School of Information - Spring 2025 - INFO 663: Metadata & Design - Team 1 MAP Final Project'"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: pratt institute, metadata, photo archive, villa i tatti, italian renaissance, art
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Veneranda Aguirre, Alexa Frankelis, Meg Carroll, Emilee Buytkins
 
