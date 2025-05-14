@@ -5,7 +5,7 @@ title,TRUE,TRUE
 creator,TRUE,TRUE
 height,FALSE,FALSE
 width,FALSE,FALSE
-provenance,TRUE,FALSE
+provenance,TRUE,TRUE
 medium,FALSE,FALSE
 citation,FALSE,FALSE
 subject_person,TRUE,TRUE
