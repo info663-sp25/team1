@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
 objectid,ObjectID,,TRUE,
 parentid,ArtworkID,,TRUE,
-title,Title,TRUE,,Title
-creator,Creator,TRUE,,Creator
+title,Title,TRUE,FALSE,Title
+creator,Creator,TRUE,FALSE,Creator
 height,Size Height,,TRUE,
 width,Size Width,,TRUE,
 provenance,Provenance,,TRUE,
