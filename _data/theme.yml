@@ -62,7 +62,7 @@ subjects-stopwords: # set of subjects separated by ; that will be removed from d
 # comma delimited list, reference url is automatic
 metadata-export-fields: "objectid,parentid,title,creator,height,width,provenance,medium,citation,subject_person,subject_topic,source,print_type,display_template,object_location"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject_person,subject_topic,title"
+metadata-facets-fields: "subject_person,subject_topic,title,creator,provenance,objectid,parentid"
 
 ##########
 # Compound Objects 
