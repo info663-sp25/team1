@@ -1,17 +1,17 @@
 field,display_name,btn,hidden,sort_name
-objectid,ObjectID,,TRUE,
-parentid,ArtworkID,,TRUE,
-title,Title,TRUE,,Title
-creator,Creator,TRUE,,Creator
-height,Size Height,,TRUE,
-width,Size Width,,TRUE,
-provenance,Provenance,,TRUE,
-medium,Medium,,TRUE,
-citation,Bibliographic References,,TRUE,
-subject_person,Subject (Person),TRUE,,Subject (Name)
-subject_topic,Subject (Generic Term),TRUE,,Subject (Generic Term)
-source,Image Source,,TRUE,
-print_type,Print Type,TRUE,, 
-display_template,,,TRUE,
-object_location,Filename,,TRUE,
-format,,,TRUE,
+objectid,ObjectID,,true,
+parentid,ArtworkID,,true,
+title,Title,true,,Title
+creator,Creator,true,,Creator
+height,Size Height,,true,
+width,Size Width,,true,
+provenance,Provenance,,true,
+medium,Medium,,true,
+citation,Bibliographic References,,true,
+subject_person,Subject (Person),true,,Subject (Name)
+subject_topic,Subject (Generic Term),true,,Subject (Generic Term)
+source,Image Source,,true,
+print_type,Print Type,true,, 
+display_template,,,true,
+object_location,Filename,,true,
+format,,,true,
