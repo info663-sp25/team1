@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,TRUE,,DCTERMS.title,name
-creator,Creator,TRUE,,DCTERMS.creator,creator
+title,Title,true,,DCTERMS.title,name
+creator,Creator,true,,DCTERMS.creator,creator
 height,Size Height,,,DCTERMS.extent,height
 width,Size Width,,,DCTERMS.extent,width
 provenance,Provenance,,,DCTERMS.description,
 medium,Medium,,,DCTERMS.format,artMedium
 citation,Bibliographic References,,,DCTERMS.relation,citation
-subject_person,Subject (Names),TRUE,,DCTERMS.subject,about
-subject_topic,Subject (Generic Terms),TRUE,,DCTERMS.subject,about
+subject_person,Subject (Names),true,,DCTERMS.subject,about
+subject_topic,Subject (Generic Terms),true,,DCTERMS.subject,about
 source,Image Source,,,DCTERMS.source,source
-print_type,Print Type,TRUE,,DCTERMS.format,print_type
+print_type,Print Type,true,,DCTERMS.format,print_type
 format,format,,,,
